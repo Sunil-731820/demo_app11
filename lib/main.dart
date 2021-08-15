@@ -7,7 +7,7 @@ void main() => runApp(MaterialApp(
           color: Colors.blueAccent,
           //margin:EdgeInsets.all(30) ,
           child: Text(
-            "happy independence day to all my friends ",
+            "Happy Independence Day to All My Friends !!!!",
             textDirection: TextDirection.ltr,
             style: TextStyle(
               fontSize: 30.0,
